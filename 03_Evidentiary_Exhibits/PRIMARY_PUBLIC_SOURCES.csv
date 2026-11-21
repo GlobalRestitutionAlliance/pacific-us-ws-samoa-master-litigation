@@ -1,0 +1,13 @@
+iso,country,source_type,title,url,access_class,status
+WS,Samoa,PUBLIC_PORTAL,UN Digital Library - Search,https://digitallibrary.un.org/search,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,UN OHCHR - Country Page,https://www.ohchr.org/en/countries,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,UN Human Rights Council - UPR,https://www.ohchr.org/en/hr-bodies/upr/upr-home,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,African Union,https://au.int/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,US State Dept Human Rights Reports,https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,US State Dept Office of the Historian (FRUS),https://history.state.gov/historicaldocuments,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,NARA Foreign Affairs Research,https://www.archives.gov/research/foreign-policy,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,CIA FOIA Reading Room,https://www.cia.gov/reading-room/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,World Bank Country Data,https://data.worldbank.org/country,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,UN Treaty Collection,https://treaties.un.org/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,ICJ Cases,https://www.icj-cij.org/cases,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+WS,Samoa,PUBLIC_PORTAL,African Commission on Human and Peoples Rights,https://achpr.au.int/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD

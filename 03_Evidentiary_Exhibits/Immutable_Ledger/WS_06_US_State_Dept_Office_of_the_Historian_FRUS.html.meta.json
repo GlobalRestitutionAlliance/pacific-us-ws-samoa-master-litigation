@@ -1,0 +1,30 @@
+{
+  "url": "https://history.state.gov/historicaldocuments",
+  "final_url": "https://history.state.gov/historicaldocuments",
+  "status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 34097,
+  "sha256": "c948fdff783f2e5f735777ee50bcbb0275a5f704e4309529f3aaa966605f6580",
+  "captured_at": "2026-11-21T22:07:53.464334Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Samoa",
+  "iso": "WS",
+  "title": "US State Dept Office of the Historian (FRUS)",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 22:10:33 GMT",
+    "Content-Type": "text/html;charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "last-modified": "Tue, 15 Sep 2026 11:30:43 +0000",
+    "created": "Mon, 29 Jun 2026 00:00:00 +0000",
+    "x-xquery-cached": "true",
+    "expires": "Sat, 21 Nov 2026 22:20:33 GMT",
+    "cache-control": "public",
+    "x-ua-compatible": "IE=Edge",
+    "x-proxy-cache": "HIT",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload;",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "referrer-policy": "strict-origin-when-cross-origin"
+  }
+}

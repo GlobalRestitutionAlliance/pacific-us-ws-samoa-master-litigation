@@ -1,0 +1,28 @@
+name: Decentralized Mirror Synchronization
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Push to GitLab Mirror
+        if: env.GITLAB_TOKEN != ''
+        run: |
+          git remote add gitlab https://oauth2:${{ secrets.GITLAB_MIRROR_TOKEN }}@gitlab.com/GlobalRestitutionAlliance/pacific-ws-samoa.git || true
+          git push gitlab main --tags --force
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_MIRROR_TOKEN }}
+      - name: Push to Codeberg Mirror
+        if: env.CODEBERG_TOKEN != ''
+        run: |
+          git remote add codeberg https://${{ secrets.CODEBERG_MIRROR_TOKEN }}@codeberg.org/GlobalRestitutionAlliance/pacific-ws-samoa.git || true
+          git push codeberg main --tags --force
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_MIRROR_TOKEN }}

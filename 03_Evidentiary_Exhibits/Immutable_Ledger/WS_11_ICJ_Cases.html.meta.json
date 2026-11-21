@@ -1,0 +1,31 @@
+{
+  "url": "https://www.icj-cij.org/cases",
+  "final_url": "https://www.icj-cij.org/cases",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 62604,
+  "sha256": "c66ffe4b81a51b59d14e73af2f122066427f895cede793d1e45df84348663107",
+  "captured_at": "2026-11-21T22:07:55.553396Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Samoa",
+  "iso": "WS",
+  "title": "ICJ Cases",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 22:10:35 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "Cache-Control": "public, max-age=3600",
+    "content-language": "en",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "vary": "Cookie,Accept-Encoding",
+    "content-security-policy": "default-src 'self'; connect-src 'self' https://cloudflareinsights.com/cdn-cgi/rum; font-src 'self' fonts.gstatic.com cdnjs.cloudflare.com; frame-src 'self' cdnapisec.kaltura.com https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha/; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://static.cloudflareinsights.com/ cdn.jsdelivr.net https://cdnjs.cloudflare.com mdbootstrap.com; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com fonts.googleapis.com https://cdnjs.cloudflare.com mdbootstrap.com use.fontawesome.com; frame-ancestors 'self'",
+    "last-modified": "Thu, 19 Nov 2026 22:55:51 GMT",
+    "cf-cache-status": "HIT",
+    "Age": "61",
+    "CF-RAY": "a5e30679f83ef471-MIA"
+  }
+}

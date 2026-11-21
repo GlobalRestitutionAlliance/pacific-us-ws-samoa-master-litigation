@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: samoan-restitution-roadmap-and-qsf-trust-execution
-  name: Samoan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/samoan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ws_001
+    name: Samoa Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_002
+    name: Samoa Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_003
+    name: Samoa Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_004
+    name: Samoa Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_005
+    name: Samoa Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_006
+    name: Samoa Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_007
+    name: Samoa Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_008
+    name: Samoa Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_009
+    name: Samoa Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_010
+    name: Samoa Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_011
+    name: Samoa Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_012
+    name: Samoa Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_013
+    name: Samoa Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_014
+    name: Samoa Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_015
+    name: Samoa Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_016
+    name: Samoa Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_017
+    name: Samoa Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_018
+    name: Samoa Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_019
+    name: Samoa Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_020
+    name: Samoa Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_021
+    name: Samoa Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_022
+    name: Samoa Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_023
+    name: Samoa Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_024
+    name: Samoa Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_025
+    name: Samoa Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_026
+    name: Samoa Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_027
+    name: Samoa Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_028
+    name: Samoa Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_029
+    name: Samoa Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_030
+    name: Samoa Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_031
+    name: Samoa Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_032
+    name: Samoa Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_033
+    name: Samoa Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_034
+    name: Samoa Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_035
+    name: Samoa Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_036
+    name: Samoa Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_037
+    name: Samoa Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_038
+    name: Samoa Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_039
+    name: Samoa Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_040
+    name: Samoa Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_041
+    name: Samoa Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_042
+    name: Samoa Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_043
+    name: Samoa Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_044
+    name: Samoa Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_045
+    name: Samoa Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_046
+    name: Samoa Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_047
+    name: Samoa Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_048
+    name: Samoa Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_049
+    name: Samoa Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_050
+    name: Samoa Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_051
+    name: Samoa Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_052
+    name: Samoa Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_053
+    name: Samoa Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_054
+    name: Samoa Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_055
+    name: Samoa Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_056
+    name: Samoa Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_057
+    name: Samoa Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_058
+    name: Samoa Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_059
+    name: Samoa Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_060
+    name: Samoa Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_061
+    name: Samoa Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_062
+    name: Samoa Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_063
+    name: Samoa Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_064
+    name: Samoa Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_065
+    name: Samoa Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_066
+    name: Samoa Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_067
+    name: Samoa Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_068
+    name: Samoa Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_069
+    name: Samoa Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_070
+    name: Samoa Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_071
+    name: Samoa Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_072
+    name: Samoa Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_073
+    name: Samoa Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_074
+    name: Samoa Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_075
+    name: Samoa Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_076
+    name: Samoa Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_077
+    name: Samoa Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_078
+    name: Samoa Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_079
+    name: Samoa Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_080
+    name: Samoa Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_081
+    name: Samoa Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_082
+    name: Samoa Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_083
+    name: Samoa Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_084
+    name: Samoa Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_085
+    name: Samoa Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_086
+    name: Samoa Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_087
+    name: Samoa Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_088
+    name: Samoa Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_089
+    name: Samoa Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_090
+    name: Samoa Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_091
+    name: Samoa Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_092
+    name: Samoa Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_093
+    name: Samoa Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_094
+    name: Samoa Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_095
+    name: Samoa Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_096
+    name: Samoa Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_097
+    name: Samoa Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_098
+    name: Samoa Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_099
+    name: Samoa Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_100
+    name: Samoa Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_101
+    name: Samoa Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_102
+    name: Samoa Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_103
+    name: Samoa Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_104
+    name: Samoa Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_105
+    name: Samoa Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_106
+    name: Samoa Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_107
+    name: Samoa Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_108
+    name: Samoa Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_109
+    name: Samoa Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_110
+    name: Samoa Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_111
+    name: Samoa Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_112
+    name: Samoa Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_113
+    name: Samoa Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_114
+    name: Samoa Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_115
+    name: Samoa Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_116
+    name: Samoa Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_117
+    name: Samoa Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_118
+    name: Samoa Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_119
+    name: Samoa Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_120
+    name: Samoa Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_121
+    name: Samoa Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_122
+    name: Samoa Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_123
+    name: Samoa Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_124
+    name: Samoa Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_125
+    name: Samoa Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_126
+    name: Samoa Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_127
+    name: Samoa Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_128
+    name: Samoa Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_129
+    name: Samoa Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_130
+    name: Samoa Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_131
+    name: Samoa Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_132
+    name: Samoa Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_133
+    name: Samoa Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_134
+    name: Samoa Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_135
+    name: Samoa Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_136
+    name: Samoa Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_137
+    name: Samoa Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_138
+    name: Samoa Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_139
+    name: Samoa Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_140
+    name: Samoa Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_141
+    name: Samoa Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_142
+    name: Samoa Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_143
+    name: Samoa Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_144
+    name: Samoa Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_145
+    name: Samoa Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_146
+    name: Samoa Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_147
+    name: Samoa Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_148
+    name: Samoa Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_149
+    name: Samoa Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_150
+    name: Samoa Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_151
+    name: Samoa Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_152
+    name: Samoa Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_153
+    name: Samoa Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_154
+    name: Samoa Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_155
+    name: Samoa Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_156
+    name: Samoa Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_157
+    name: Samoa Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_158
+    name: Samoa Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_159
+    name: Samoa Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_160
+    name: Samoa Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_161
+    name: Samoa Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_162
+    name: Samoa Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_163
+    name: Samoa Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_164
+    name: Samoa Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_165
+    name: Samoa Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_166
+    name: Samoa Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_167
+    name: Samoa Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_168
+    name: Samoa Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_169
+    name: Samoa Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_170
+    name: Samoa Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_171
+    name: Samoa Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_172
+    name: Samoa Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_173
+    name: Samoa Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_174
+    name: Samoa Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_175
+    name: Samoa Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_176
+    name: Samoa Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_177
+    name: Samoa Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_178
+    name: Samoa Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_179
+    name: Samoa Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_180
+    name: Samoa Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_181
+    name: Samoa Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_182
+    name: Samoa Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_183
+    name: Samoa Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_184
+    name: Samoa Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_185
+    name: Samoa Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_186
+    name: Samoa Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_187
+    name: Samoa Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_188
+    name: Samoa Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_189
+    name: Samoa Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_190
+    name: Samoa Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_191
+    name: Samoa Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_192
+    name: Samoa Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_193
+    name: Samoa Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_194
+    name: Samoa Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_195
+    name: Samoa Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_196
+    name: Samoa Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_197
+    name: Samoa Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_198
+    name: Samoa Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_199
+    name: Samoa Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_200
+    name: Samoa Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_201
+    name: Samoa Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_202
+    name: Samoa Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_203
+    name: Samoa Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_204
+    name: Samoa Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_205
+    name: Samoa Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_206
+    name: Samoa Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_207
+    name: Samoa Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_208
+    name: Samoa Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_209
+    name: Samoa Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_210
+    name: Samoa Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_211
+    name: Samoa Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_212
+    name: Samoa Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_213
+    name: Samoa Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_214
+    name: Samoa Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_215
+    name: Samoa Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_216
+    name: Samoa Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_217
+    name: Samoa Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_218
+    name: Samoa Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_219
+    name: Samoa Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_220
+    name: Samoa Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_221
+    name: Samoa Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_222
+    name: Samoa Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_223
+    name: Samoa Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_224
+    name: Samoa Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_225
+    name: Samoa Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_226
+    name: Samoa Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_227
+    name: Samoa Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_228
+    name: Samoa Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_229
+    name: Samoa Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_230
+    name: Samoa Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_231
+    name: Samoa Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_232
+    name: Samoa Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_233
+    name: Samoa Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_234
+    name: Samoa Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_235
+    name: Samoa Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_236
+    name: Samoa Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_237
+    name: Samoa Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_238
+    name: Samoa Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_239
+    name: Samoa Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_240
+    name: Samoa Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_241
+    name: Samoa Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_242
+    name: Samoa Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_243
+    name: Samoa Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_244
+    name: Samoa Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_245
+    name: Samoa Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_246
+    name: Samoa Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_247
+    name: Samoa Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_248
+    name: Samoa Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_249
+    name: Samoa Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_250
+    name: Samoa Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_251
+    name: Samoa Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ws_252
+    name: Samoa Skill 252
+    status: ACTIVE_SCAFFOLD

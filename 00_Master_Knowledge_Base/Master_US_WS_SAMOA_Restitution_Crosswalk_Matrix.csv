@@ -1,6 +1,4 @@
-Instrument,Category,Status,Value,Notes
-US_WS_SAMOA_001,Constitution,Active,$4.00B,Primary restitution instrument
-US_WS_SAMOA_002,Compact/Association,Active,$4.00B,US/NZ Compact of Free Association
-US_WS_SAMOA_003,Climate Loss,Active,$4.00B,Sea Level Rise, Cyclones, EEZ Loss
-US_WS_SAMOA_004,Nuclear Legacy,Active,$4.00B,US Nuclear Testing (Marshall Islands, etc.)
-US_WS_SAMOA_005,Resource Extraction,Active,$4.00B,Phosphate, Mining, Seabed Minerals
+instrument_id,issue,anchor,source_type,verification_status,notes,citation_id,citation_url,citation_local_artifact,citation_sha256,citation_status
+WS-A-001,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",UN/OHCHR country documentation for Samoa (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,WS-CIT-0001,https://digitallibrary.un.org/search,03_Evidentiary_Exhibits/Immutable_Ledger/WS_01_UN_Digital_Library_-_Search.html,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,PENDING_LEGAL_REVIEW
+WS-A-002,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",US State Department human rights/reporting for Samoa (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,WS-CIT-0002,https://au.int/,03_Evidentiary_Exhibits/Immutable_Ledger/WS_04_African_Union.html,3cf1008f4c978f35b808eac6772ec3427d9ad5d6db683e771c350730fdfebcd1,PENDING_LEGAL_REVIEW
+WS-A-003,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",African Union / regional records (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,WS-CIT-0003,https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/,03_Evidentiary_Exhibits/Immutable_Ledger/WS_05_US_State_Dept_Human_Rights_Reports.html,1c02678356be810e25e64a3dba457c5555b4c48ea568b7eb27b43d24a7f0032f,PENDING_LEGAL_REVIEW
