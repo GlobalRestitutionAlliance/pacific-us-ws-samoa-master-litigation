@@ -1,7 +1,5 @@
-# Primary Public Sources - Samoa (WS)
+# Primary Public Sources
 
-Generated: 2026-11-21
-Status: Public-source registry. Links require verification before evidentiary use.
 
 - [UN Digital Library - Search](https://digitallibrary.un.org/search)
 - [UN OHCHR - Country Page](https://www.ohchr.org/en/countries)
@@ -15,6 +13,17 @@ Status: Public-source registry. Links require verification before evidentiary us
 - [UN Treaty Collection](https://treaties.un.org/)
 - [ICJ Cases](https://www.icj-cij.org/cases)
 - [African Commission on Human and Peoples Rights](https://achpr.au.int/)
-
-## Rule
-No fabricated citations. No authenticated evidence claims without provenance review.
+- [US National Archives](https://www.archives.gov/)
+- [Library of Congress](https://www.loc.gov/)
+- [Chronicling America (LOC Newspapers)](https://chroniclingamerica.loc.gov/)
+- [HathiTrust Digital Library](https://www.hathitrust.org/)
+- [Internet Archive](https://archive.org/)
+- [FOIA.gov](https://www.foia.gov/)
+- [NARA FOIA](https://www.archives.gov/foia)
+- [UN Digital Library](https://digitallibrary.un.org/)
+- [UN OHCHR](https://www.ohchr.org/)
+- [CourtListener](https://www.courtlistener.com/)
+- [Justia](https://www.justia.com/)
+- [WorldCat](https://search.worldcat.org/)
+- [Wikisource](https://en.wikisource.org/)
+- [US Govt Publishing Office](https://www.govinfo.gov/)
